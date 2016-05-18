@@ -1,0 +1,24 @@
+{
+  "name": "magrathea-ph",
+  "version": "1.0.0",
+  "description": "pH balancing application for Magrathea suite of applications",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teagan42/Magrathea-pH.git"
+  },
+  "keywords": [
+    "Magrathea",
+    "Grow",
+    "Automation"
+  ],
+  "author": "Teagan M. Glenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teagan42/Magrathea-pH/issues"
+  },
+  "homepage": "https://github.com/Teagan42/Magrathea-pH#readme"
+}
