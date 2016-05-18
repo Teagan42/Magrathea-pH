@@ -14,3 +14,4 @@ port.on('data', function (data) {
   console.log('Data: ' + data);
 });
 
+while(true) { }
