@@ -1,0 +1,10 @@
+{
+    "valves": {
+        "ph_up": 1,
+        "ph_down": 2
+    },
+    "ph_probe": {
+        "baudrate": 123,
+        "device": "123"
+    }
+}
